@@ -1,0 +1,1 @@
+result = list(map(lambda x: x*2, numbers))
